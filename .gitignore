@@ -9,3 +9,12 @@ u3d/*.sln
 u3d/*.userprefs
 u3d/Assets/StreamingAssets/build_info.txt*
 *.o
+u3d/.vs/u3d/v16/Server/sqlite3/storage.ide
+u3d/.vs/u3d/v16/Server/sqlite3/db.lock
+u3d/.vs/u3d/v16/.suo
+u3d/.vs/Supercharger/Assembly-CSharp/workbench.dat
+u3d/.vs/Supercharger/Assembly-CSharp/global_history.dat
+u3d/.vs/Supercharger/Assembly-CSharp/codemap.dat
+u3d/.vs/Supercharger/Assembly-CSharp-Editor/workbench.dat
+u3d/.vs/Supercharger/Assembly-CSharp-Editor/global_history.dat
+u3d/.vs/Supercharger/Assembly-CSharp-Editor/codemap.dat
